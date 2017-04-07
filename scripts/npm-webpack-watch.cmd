@@ -1,0 +1,2 @@
+cd ..
+webpack --progress --watch

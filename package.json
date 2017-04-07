@@ -1,0 +1,21 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "typescript",
+  "main": "index.ts",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "source-map-loader": "^0.1.6",
+    "ts-loader": "^2.0.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Guido Eckelt",
+  "license": "ISC"
+}
